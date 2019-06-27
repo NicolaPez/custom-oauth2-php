@@ -1184,9 +1184,9 @@ class OAuth2
 
         } else {
             // Only need to validate if redirect_uri is provided on input and stored
-            if (!$this->validateRedirectUri($redirectUri, $client->getRedirectUris())) {
+            /*if (!$this->validateRedirectUri($redirectUri, $client->getRedirectUris())) {
                 throw new OAuth2ServerException(Response::HTTP_BAD_REQUEST, self::ERROR_REDIRECT_URI_MISMATCH, 'The redirect URI provided does not match registered URI(s).');
-            }
+            }*/
 
         }
 
