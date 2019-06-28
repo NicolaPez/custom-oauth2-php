@@ -1,18 +1,14 @@
 {
-    "name": "friendsofsymfony/oauth2-php",
+    "name": "nicolapez/custom-oauth2-php",
     "type": "library",
-    "description": "OAuth2 library",
+    "description": "OAuth2 library - custom form for business logic",
     "license": "MIT",
     "keywords": ["oauth", "oauth2"],
-    "homepage": "https://github.com/FriendsOfSymfony/oauth2-php",
+    "homepage": "https://github.com/nicolapez/custom-oauth2-php",
     "authors": [
         {
-            "name": "Arnaud Le Blanc",
-            "email": "arnaud.lb@gmail.com"
-        },
-        {
-            "name": "FriendsOfSymfony Community",
-            "homepage": "https://github.com/FriendsOfSymfony/oauth2-php/contributors"
+            "name": "Nicola Pezzoli",
+            "email": "nicola.pezzoli1990@gmail.com"
         }
     ],
 
